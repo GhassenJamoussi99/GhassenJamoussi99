@@ -61,7 +61,7 @@
 
 ---
 
-| <a href="https://github.com/GhassenJamoussi99"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GhassenJamoussi99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ghassen's GitHub stats" /></a> | <a href="https://github.com/GhassenJamoussi99"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhassenJamoussi99&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/GhassenJamoussi99"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GhassenJamoussi99&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Ghassen's GitHub stats" /></a> | <a href="https://github.com/GhassenJamoussi99"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhassenJamoussi99&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
