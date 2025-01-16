@@ -27,10 +27,12 @@
 <code><img height="50" alt="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
 
 
-### Microcontrollers Used:
+### Embedded Systems & Microcontrollers Used:
 <code><img height="50" alt="STM32" src="https://media.licdn.com/dms/image/C4D12AQFdgJiMnrzu2g/article-cover_image-shrink_600_2000/0/1622631819905?e=2147483647&v=beta&t=vPGjeJ65p7AAWZbkT6RD8Hik6QtFgfBiUn6-sIerB-M"></code>
 <code><img height="50" alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg"></code>
 <code><img height="50" alt="Arduino Uno" src="https://www.cdnlogo.com/logos/a/17/arduino.svg"></code>
+<code><img height="50" alt="FPGA" src="https://www.ibv-augsburg.de/wp-content/uploads/2020/08/ibv_icon_firmwareentwicklung-fpga_01weiss.png"></code>
+
 
 ### Frameworks Used:
 <code><img height="50" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
