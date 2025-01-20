@@ -43,7 +43,7 @@
 <code><img height="50" alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></code>
 <code><img height="50" alt="Windows" src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png"></code>
 
-## 🚀 Projects & Contributions
+## 🚀 Projects
 
 
 ### [Tracking System](https://github.com/GhassenJamoussi99/Tracking_System)
@@ -55,6 +55,9 @@
 ### [Rotation Wheel Inverted Pendulum (RWIP)](https://github.com/GhassenJamoussi99/Rotation-Wheel-Inverted-Pendulum-RWIP)
 - Developed an inverted pendulum system stabilized through a closed-loop control system.
 
+### [Reversi Game)](https://github.com/GhassenJamoussi99/ReversiGameCpp/tree/main)
+- Developed the classic reversi game in C++ using ASPICE process.
+  
 ### [Smart Home Simulator](https://github.com/GhassenJamoussi99/QT_Smart_Home_SIMULATOR)
 - Built a Qt-based simulator for smart home functionalities using C++.
 
