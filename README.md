@@ -56,7 +56,7 @@
 - Developed an inverted pendulum system stabilized through a closed-loop control system.
 
 ### [Reversi Game)](https://github.com/GhassenJamoussi99/ReversiGameCpp/tree/main)
-- Developed the classic reversi game in C++ using ASPICE process.
+- Developed the classic Reversi game in C++ using ASPICE process.
   
 ### [Smart Home Simulator](https://github.com/GhassenJamoussi99/QT_Smart_Home_SIMULATOR)
 - Built a Qt-based simulator for smart home functionalities using C++.
