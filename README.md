@@ -55,7 +55,7 @@
 ### [Rotation Wheel Inverted Pendulum (RWIP)](https://github.com/GhassenJamoussi99/Rotation-Wheel-Inverted-Pendulum-RWIP)
 - Developed an inverted pendulum system stabilized through a closed-loop control system.
 
-### [Reversi Game)](https://github.com/GhassenJamoussi99/ReversiGameCpp/tree/main)
+### [Reversi Game](https://github.com/GhassenJamoussi99/ReversiGameCpp/tree/main)
 - Developed the classic Reversi game in C++ using ASPICE process.
   
 ### [Smart Home Simulator](https://github.com/GhassenJamoussi99/QT_Smart_Home_SIMULATOR)
