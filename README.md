@@ -28,7 +28,7 @@
 
 
 ### Embedded Systems & Microcontrollers Used:
-<code><img width="40" height="40" alt="STM32" src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png"></code>
+<code><img width="40" height="40" alt="STM32" src="https://play-lh.googleusercontent.com/VIpd7Bc4mnkfzlRfhF5tZDmTmE-JjGVkhclaRS_xAPcIQNaiJF0dW3STSkOz0oTx4g0"></code>
 <code><img width="40" height="40" alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg"></code>
 <code><img width="40" height="40" alt="Arduino Uno" src="https://www.cdnlogo.com/logos/a/17/arduino.svg"></code>
 <code><img width="40" height="40" alt="FPGA" src="https://www.ibv-augsburg.de/wp-content/uploads/2020/08/ibv_icon_firmwareentwicklung-fpga_01weiss.png"></code>
