@@ -17,52 +17,51 @@
 ## 🛠️ Skills
 
 ### Programming Languages:
-<code><img height="50" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="50" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img width="30" height="30" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img width="30" height="30" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="30" height="30" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 
 ### DevOps Tools:
-<code><img height="50" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-<code><img height="50" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></code>
-<code><img height="50" alt="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
+<code><img width="40" height="40" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img width="40" height="40" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></code>
+<code><img width="40" height="40" alt="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
 
 
 ### Embedded Systems & Microcontrollers Used:
-<code><img height="50" alt="STM32" src="https://media.licdn.com/dms/image/C4D12AQFdgJiMnrzu2g/article-cover_image-shrink_600_2000/0/1622631819905?e=2147483647&v=beta&t=vPGjeJ65p7AAWZbkT6RD8Hik6QtFgfBiUn6-sIerB-M"></code>
-<code><img height="50" alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg"></code>
-<code><img height="50" alt="Arduino Uno" src="https://www.cdnlogo.com/logos/a/17/arduino.svg"></code>
-<code><img height="50" alt="FPGA" src="https://www.ibv-augsburg.de/wp-content/uploads/2020/08/ibv_icon_firmwareentwicklung-fpga_01weiss.png"></code>
+<code><img width="40" height="40" alt="STM32" src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png"></code>
+<code><img width="40" height="40" alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg"></code>
+<code><img width="40" height="40" alt="Arduino Uno" src="https://www.cdnlogo.com/logos/a/17/arduino.svg"></code>
+<code><img width="40" height="40" alt="FPGA" src="https://www.ibv-augsburg.de/wp-content/uploads/2020/08/ibv_icon_firmwareentwicklung-fpga_01weiss.png"></code>
 
 
 ### Frameworks Used:
-<code><img height="50" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
-<code><img height="50" alt="MATLAB Simulink" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img width="40" height="40" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
+<code><img width="40" height="40" alt="MATLAB Simulink" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 
 ### Operating Systems:
-<code><img height="50" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img height="50" alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></code>
-<code><img height="50" alt="Windows" src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png"></code>
+<code><img width="40" height="40" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img width="40" height="40" alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></code>
+<code><img width="40" height="40" alt="Windows" src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png"></code>
 
 ## 🚀 Projects
 
-
 ### [Tracking System](https://github.com/GhassenJamoussi99/Tracking_System)
--  This project outlines the design and implementation of an automated tracking system that utilizes Ultra High Frequency (UHF) Radio Frequency Identification (RFID) technology for lending monitoring and user identification.
+- Automated tracking system using UHF RFID technology for lending monitoring and user identification. Built with embedded C and hardware integration.
 
 ### [Custom C++ Compiler (Gj Compiler)](https://github.com/GhassenJamoussi99/Custom-built-in-gj_compiler)
-- Designed and implemented a custom C++ compiler with features including lexical analysis, parsing, semantic analysis, and code generation.
+- Custom C++ compiler featuring lexical analysis, parsing, semantic analysis, and code generation. Developed in C++.
 
 ### [Rotation Wheel Inverted Pendulum (RWIP)](https://github.com/GhassenJamoussi99/Rotation-Wheel-Inverted-Pendulum-RWIP)
-- Developed an inverted pendulum system stabilized through a closed-loop control system.
+- Inverted pendulum system stabilized with a closed-loop control system. Implemented using embedded C and control theory.
 
 ### [Reversi Game](https://github.com/GhassenJamoussi99/ReversiGameCpp/tree/main)
-- Developed the classic Reversi game in C++ using ASPICE process.
+- Classic Reversi game in C++ using ASPICE process. Focused on software quality and process adherence.
   
 ### [Smart Home Simulator](https://github.com/GhassenJamoussi99/QT_Smart_Home_SIMULATOR)
-- Built a Qt-based simulator for smart home functionalities using C++.
+- Qt-based simulator for smart home functionalities using C++. Demonstrates GUI and embedded logic.
 
 ### [Corona Robot](https://github.com/GhassenJamoussi99/Corona_Robot)
-- Created an autonomous robot with facial recognition and a thermal imaging camera for temperature detection.
+- Autonomous robot with facial recognition and thermal imaging for temperature detection. Combines embedded systems and computer vision.
 
 ---
 
