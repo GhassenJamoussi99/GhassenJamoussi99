@@ -17,31 +17,30 @@
 ## 🛠️ Skills
 
 ### Programming Languages:
-<code><img width="30" height="30" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img width="30" height="30" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img width="30" height="30" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img width="50" height="50" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img width="50" height="50" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="50" height="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 
 ### DevOps Tools:
-<code><img width="40" height="40" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-<code><img width="40" height="40" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></code>
-<code><img width="40" height="40" alt="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
-
+<code><img width="50" height="50" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img width="50" height="50" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></code>
+<code><img width="50" height="50" alt="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
 
 ### Embedded Systems & Microcontrollers Used:
-<code><img width="40" height="40" alt="STM32" src="https://play-lh.googleusercontent.com/VIpd7Bc4mnkfzlRfhF5tZDmTmE-JjGVkhclaRS_xAPcIQNaiJF0dW3STSkOz0oTx4g0"></code>
-<code><img width="40" height="40" alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg"></code>
-<code><img width="40" height="40" alt="Arduino Uno" src="https://www.cdnlogo.com/logos/a/17/arduino.svg"></code>
-<code><img width="40" height="40" alt="FPGA" src="https://www.ibv-augsburg.de/wp-content/uploads/2020/08/ibv_icon_firmwareentwicklung-fpga_01weiss.png"></code>
-
+<code><img width="50" height="50" alt="STM32" src="https://play-lh.googleusercontent.com/VIpd7Bc4mnkfzlRfhF5tZDmTmE-JjGVkhclaRS_xAPcIQNaiJF0dW3STSkOz0oTx4g0"></code>
+<code><img width="50" height="50" alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg"></code>
+<code><img width="50" height="50" alt="Arduino Uno" src="https://www.cdnlogo.com/logos/a/17/arduino.svg"></code>
+<code><img width="50" height="50" alt="FPGA" src="https://www.ibv-augsburg.de/wp-content/uploads/2020/08/ibv_icon_firmwareentwicklung-fpga_01weiss.png"></code>
 
 ### Frameworks Used:
-<code><img width="40" height="40" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
-<code><img width="40" height="40" alt="MATLAB Simulink" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img width="50" height="50" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
+<code><img width="50" height="50" alt="MATLAB Simulink" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 
 ### Operating Systems:
-<code><img width="40" height="40" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img width="40" height="40" alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></code>
-<code><img width="40" height="40" alt="Windows" src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png"></code>
+<code><img width="50" height="50" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img width="50" height="50" alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></code>
+<code><img width="50" height="50" alt="Windows" src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png"></code>
+
 
 ## 🚀 Projects
 
