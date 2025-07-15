@@ -45,7 +45,7 @@
 ## 🚀 Projects
 
 ### [Tracking System](https://github.com/GhassenJamoussi99/Tracking_System)
-- Automated tracking system using UHF RFID technology for lending monitoring and user identification. Built with embedded C and hardware integration.
+- Automated tracking system using UHF RFID technology for lending monitoring and user identification. Built with embedded Python and hardware integration.
 
 ### [Custom C++ Compiler (Gj Compiler)](https://github.com/GhassenJamoussi99/Custom-built-in-gj_compiler)
 - Custom C++ compiler featuring lexical analysis, parsing, semantic analysis, and code generation. Developed in C++.
