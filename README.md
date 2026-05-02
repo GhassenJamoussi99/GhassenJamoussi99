@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Graduated with a **Master's in Computer Engineering** from HTW Berlin.
-- 🔭 Currently working as an **Embedded Software Developer** at ITK Engineering.
+- 🔭 Currently working as an **Embedded Software Developer** at Codialist, a software company for medical devices.
 - 🔧 Skilled in **C**, **C++**, and **Python**.
 
 
